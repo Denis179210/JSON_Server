@@ -1,16 +1,37 @@
 {
-	"user" : [
-				{
-					"id" : 0,
-					"name" : "Piter",
-					"age" : 25,
-					"comment" : "Everything cool"
-				},
-				{
-					"id" : 1,
-					"name" : "Helena",
-					"age" : 22,
-					"comment" : "Everything bad"
-				}
-			 ]
+  "user": [
+    {
+      "id": 0,
+      "name": "Piter",
+      "age": 25,
+      "comment": "Everything cool"
+    },
+    {
+      "id": 1,
+      "name": "Helena",
+      "age": 22,
+      "comment": "Everything bad"
+    },
+    {
+      "first_name": "denis",
+      "last_name": "bochar",
+      "email": "denis179210@gmail.com",
+      "phone_number": "0631457426",
+      "id": 2
+    },
+    {
+      "first_name": "denis",
+      "last_name": "bochar",
+      "email": "katenka_1992@bk.ru",
+      "phone_number": "7832712",
+      "id": 4
+    },
+    {
+      "first_name": "denis",
+      "last_name": "bochar",
+      "email": "denis179210@gmail.com",
+      "phone_number": "1111111111",
+      "id": 5
+    }
+  ]
 }
